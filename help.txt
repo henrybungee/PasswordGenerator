@@ -1,0 +1,9 @@
+Hi, how can I help?
+
+help - you've made it this far!
+clear - clear the screen
+list - list all your saved passwords numerically in the keychain
+create - create a new password to save to the keychain
+edit [pass number] - edits a certain password
+remove [pass number] - removes a certain password
+logout - logout of your account
